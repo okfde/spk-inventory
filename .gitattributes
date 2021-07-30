@@ -1,0 +1,4 @@
+raw/obj_ifg__teil1.csv filter=lfs diff=lfs merge=lfs -text
+raw/obj_ifg__teil2.csv filter=lfs diff=lfs merge=lfs -text
+raw/obj_ifg__teil3.csv filter=lfs diff=lfs merge=lfs -text
+processed/all.csv filter=lfs diff=lfs merge=lfs -text

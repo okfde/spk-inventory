@@ -1,0 +1,21 @@
+{
+  "name": "staatl-museen-berlin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "krmax44 <hi@krmax44.de>",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^16.3.1",
+    "prettier": "^2.3.2"
+  },
+  "prettier": {
+    "singleQuote": true,
+    "arrowParens": "avoid",
+    "trailingComma": "none"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0"
+  }
+}
