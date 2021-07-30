@@ -6,3 +6,7 @@ The data was obtained through a [Freedom of Information request via FragDenStaat
 
 - [ ] fix departments (caused by wrong column order?)
 - [ ] fix (as many as possible) broken items in [`broken.csv`](./processed/broken.csv)
+
+## License
+
+Code (`*.js`) is [MIT-licensed](./LICENSE), data (`*.csv`) is [CC-0](https://creativecommons.org/publicdomain/zero/1.0).
